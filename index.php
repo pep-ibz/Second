@@ -1,4 +1,6 @@
 <?php
+
 	echo "first line ";
-	echo "second line on master";
+	echo "Second line on branch-1";
+	echo "third line on master";
 ?>
