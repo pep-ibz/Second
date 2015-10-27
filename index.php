@@ -1,3 +1,3 @@
 <?php
-	echo "Second: first line";
+	echo "Second: first line ";
 ?>
